@@ -32,7 +32,7 @@
 		"@automattic/calypso-config": "workspace:^",
 		"@automattic/design-picker": "workspace:^",
 		"@automattic/global-styles": "workspace:^",
-		"@automattic/i18n-utils": "workspace:^",
+		"@automattic/i18n-utils": "1.0.0",
 		"@automattic/onboarding": "workspace:^",
 		"@wordpress/components": "^25.4.0",
 		"@wordpress/html-entities": "^3.38.0",
