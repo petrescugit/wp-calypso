@@ -39,7 +39,7 @@
 		"@automattic/calypso-stripe": "workspace:^",
 		"@automattic/composite-checkout": "workspace:^",
 		"@automattic/format-currency": "workspace:^",
-		"@automattic/shopping-cart": "workspace:^",
+		"@automattic/shopping-cart": "1.0.0",
 		"@emotion/styled": "^11.11.0",
 		"@stripe/stripe-js": "^1.53.0",
 		"@wordpress/data": "^9.8.0",
