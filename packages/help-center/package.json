@@ -31,7 +31,7 @@
 	},
 	"dependencies": {
 		"@automattic/components": "workspace:^",
-		"@automattic/i18n-utils": "workspace:^",
+		"@automattic/i18n-utils": "1.0.0",
 		"@automattic/site-picker": "workspace:^",
 		"@automattic/viewport": "workspace:^",
 		"@automattic/viewport-react": "workspace:^",
