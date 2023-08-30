@@ -31,8 +31,8 @@
 	"dependencies": {
 		"@automattic/calypso-analytics": "workspace:^",
 		"@automattic/calypso-color-schemes": "workspace:^",
-		"@automattic/data-stores": "workspace:^",
-		"@automattic/i18n-utils": "workspace:^",
+		"@automattic/data-stores": "2.0.0",
+		"@automattic/i18n-utils": "1.0.0",
 		"@automattic/onboarding": "workspace:^",
 		"@automattic/typography": "workspace:^",
 		"@wordpress/base-styles": "^4.29.0",
