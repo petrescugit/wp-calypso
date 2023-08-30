@@ -39,7 +39,7 @@
 		"@automattic/calypso-analytics": "workspace:^",
 		"@automattic/calypso-color-schemes": "workspace:^",
 		"@automattic/components": "workspace:^",
-		"@automattic/i18n-utils": "workspace:^",
+		"@automattic/i18n-utils": "1.0.0",
 		"@automattic/typography": "workspace:^",
 		"@tanstack/react-query": "^4.29.1",
 		"@wordpress/components": "^25.4.0",
