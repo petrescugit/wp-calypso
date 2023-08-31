@@ -30,7 +30,7 @@
 	},
 	"dependencies": {
 		"@automattic/design-picker": "workspace:^",
-		"@automattic/i18n-utils": "workspace:^",
+		"@automattic/i18n-utils": "1.0.0",
 		"@automattic/onboarding": "workspace:^",
 		"@tanstack/react-query": "^4.29.1",
 		"classnames": "^2.3.1",
