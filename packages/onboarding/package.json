@@ -30,7 +30,7 @@
 	},
 	"dependencies": {
 		"@automattic/components": "workspace:^",
-		"@automattic/data-stores": "workspace:^",
+		"@automattic/data-stores": "2.0.0",
 		"@wordpress/components": "^25.4.0",
 		"@wordpress/data": "^9.8.0",
 		"@wordpress/icons": "^9.29.0",
