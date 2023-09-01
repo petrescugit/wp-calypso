@@ -30,8 +30,8 @@
 	},
 	"dependencies": {
 		"@automattic/components": "workspace:^",
-		"@automattic/data-stores": "workspace:^",
-		"@automattic/i18n-utils": "workspace:^",
+		"@automattic/data-stores": "2.0.0",
+		"@automattic/i18n-utils": "1.0.0",
 		"classnames": "^2.3.1",
 		"tslib": "^2.3.0",
 		"utility-types": "^3.10.0",
