@@ -38,7 +38,7 @@
 	"bugs": "https://github.com/Automattic/wp-calypso/issues",
 	"homepage": "https://github.com/Automattic/wp-calypso/tree/HEAD/packages/mini-cart#readme",
 	"dependencies": {
-		"@automattic/composite-checkout": "workspace:^",
+		"@automattic/composite-checkout": "1.0.0",
 		"@automattic/format-currency": "workspace:^",
 		"@automattic/shopping-cart": "workspace:^",
 		"@automattic/wpcom-checkout": "workspace:^",
